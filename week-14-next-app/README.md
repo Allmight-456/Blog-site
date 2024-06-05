@@ -88,7 +88,7 @@ The project uses Tailwind CSS for styling. You can customize the styles in the `
 @tailwind components;
 @tailwind utilities;
 ```
-TypeScript
+##TypeScript
 TypeScript is used throughout the project for type safety and better developer experience. You can find type definitions in the types directory.
 
 ```css
