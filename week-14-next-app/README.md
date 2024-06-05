@@ -88,8 +88,10 @@ The project uses Tailwind CSS for styling. You can customize the styles in the `
 @tailwind components;
 @tailwind utilities;
 ```
-##TypeScript
-TypeScript is used throughout the project for type safety and better developer experience. You can find type definitions in the types directory.
+## TypeScript
+
+TypeScript is used throughout the project for type safety and better developer experience. You can find type definitions in the `types` directory.
+
 
 ```css
 This README.md provides a concise overview of the project, its features, structure, installation instructions, and basic routing details without including example code directly in the file.
