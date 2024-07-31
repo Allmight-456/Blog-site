@@ -40,7 +40,7 @@ This project is a blog site built using Next.js, Tailwind CSS, and TypeScript. T
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/blog-site.git
+    git clone https://github.com/Allmight-456/blog-site.git
     cd blog-site
     ```
 
